@@ -4,4 +4,4 @@
 :HL["/fonts/Trade-Gothic-Next-LT-Pro.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/Trade-Gothic-Next-LT-Pro-Cn.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/Trade-Gothic-Next-LT-Pro-BdCn.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"buildId":"v6YMvFzdwSxSUW3nynKlB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"kieshulp","paramType":null,"paramKey":"kieshulp","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"n-DxrLmnVw3_V4zrHqIzm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"kieshulp","paramType":null,"paramKey":"kieshulp","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
