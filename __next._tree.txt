@@ -4,4 +4,4 @@
 :HL["/fonts/Trade-Gothic-Next-LT-Pro.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/Trade-Gothic-Next-LT-Pro-Cn.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/fonts/Trade-Gothic-Next-LT-Pro-BdCn.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"buildId":"MO5PDy0_49LMpRgSqag-7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"tMVgkYuegI6wRERue-sI0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
