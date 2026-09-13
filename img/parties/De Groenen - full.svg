@@ -23,7 +23,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.7148438"
-     inkscape:cx="42.631317"
+     inkscape:cx="42.843413"
      inkscape:cy="36.374482"
      inkscape:window-width="1710"
      inkscape:window-height="1379"
@@ -37,7 +37,8 @@
      fill="#52b65b"
      id="rect1"
      x="0"
-     y="0" />
+     y="0"
+     style="fill:#0f8a54;fill-opacity:1" />
   <g
      id="g3"
      transform="translate(-31.013238)">
